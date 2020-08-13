@@ -12,7 +12,7 @@ The code has the follwoing:
  After successfull execution, we recieve the link which can be used to work further.
 
  Working Video Link 
-     https://www.linkedin.com/posts/rishabh-sharma7_i-am-personally-really-impressed-with-git-activity-6675173506344382464-7-U6
+ - <a href = "https://www.linkedin.com/posts/rishabh-sharma7_i-am-personally-really-impressed-with-git-activity-6675173506344382464-7-U6" > Click Here </a>
 
  So, use this and keep contributing.
 
